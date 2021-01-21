@@ -1,0 +1,36 @@
+.navbar-brand{
+
+    color: black !important;
+    font-size: 2.5rem;
+}
+
+nav{
+
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.card{
+
+    border: none;
+}
+
+video{
+
+    object-fit: cover;
+    width: 100vw;
+    height: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.nav-link{
+
+    color: black !important;
+    font-size: 1.3rem;
+}
+
+.navbar-brand > p{
+
+    font-size: 0.3em;
+}
